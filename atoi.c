@@ -27,6 +27,8 @@ int my_atoi(const char s[])
 	}
 	if(s[0]=='-')
 		num=-num;
+printf("abhishek");
 	return num;
 }
+
 
